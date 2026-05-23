@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go Downloader</string>
+    <string name="dashboard_title">Download Dashboard</string>
+    <string name="dashboard_subtitle">Manage your downloads efficiently</string>
+    <string name="dashboard_subtitle_empty">No active downloads</string>
+    <string name="dashboard_subtitle_active">%1$d downloads in progress</string>
+    <string name="activity_title">Activity</string>
+    <string name="empty_list">Your download list is empty</string>
+    <string name="add_download_title">Add New Download</string>
+    <string name="add_download_label">Paste URL here</string>
+    <string name="start_btn">Start</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="settings_concurrent_title">Concurrent Downloads</string>
+    <string name="settings_concurrent_desc">Max simultaneous downloads</string>
+</resources>

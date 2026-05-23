@@ -1,0 +1,6 @@
+{
+  "max_threads_per_file": 16,
+  "default_threads": 4,
+  "max_parallel_downloads": 3,
+  "speed_limit_mb": 5
+}

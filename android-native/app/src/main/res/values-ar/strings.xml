@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جو داونلودر</string>
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="dashboard_subtitle">إدارة تنزيلاتك بكفاءة</string>
+    <string name="dashboard_subtitle_empty">لا توجد تنزيلات نشطة</string>
+    <string name="dashboard_subtitle_active">%1$d تنزيلات جارية</string>
+    <string name="activity_title">النشاط</string>
+    <string name="empty_list">قائمة التنزيلات فارغة</string>
+    <string name="add_download_title">إضافة تنزيل جديد</string>
+    <string name="add_download_label">ألصق الرابط هنا</string>
+    <string name="start_btn">ابدأ</string>
+    <string name="cancel_btn">إلغاء</string>
+</resources>
